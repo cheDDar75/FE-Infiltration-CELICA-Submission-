@@ -1,0 +1,33 @@
+|Fire Emblem: Infiltration|
+
+Original Game by Intelligent Systems
+FEBuilder GBA by 7743
+Usenti by Cearn
+
+Patches:
+-7743 (NULL move display, camera freeze fix, highlight freeze fix, non-existant unit kill freeze fix, movement freeze fix, AutoGenLeftOAM)
+-Fati (Opening DEMO skip)
+-circleseverywhere (opening text skip, convert chapter titles to text, Action after talk)
+-Aera (thracia trading)
+-Stan (Difficulty select skip)
+-Shuuske, Vesly (Autolevel unit event)
+-Unknown (Opening map cutscene skip, logos skip)
+
+-Circleseverywhere, Monkeybard, Black Mage, Blaze, Tequila, Rossendale, StanH, Leonarth, Teraspark, sd9k, Kao, blademaster, Snakey1, Primefusion (Skill System)
+
+Portraits:
+-HyperGammaSpaces (Soldier Version 1 & 2)
+-Sphealnuke (Thief Version 4)
+-Relic (Village Girl Armor Bucktoothed)
+-LaurentLacroix (Generic portraits 13, 45, & 52)
+-It's_Just_Jay (Knight Green)
+-RandomWizard (Cultist Version 2)
+-RandomWizard, Melia (Soldier Version 4)
+-RandomWizard, Lenh (Assassin)
+
+Battle Animations:
+-Solum (Thief - Hooded)
+-FPZero, Moocavo, Riku (Leila + Skirt)
+
+Item Icons:
+-Ereshkigal (Extra 20 - Lance)
